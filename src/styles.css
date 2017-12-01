@@ -13,7 +13,11 @@ input {
 }
 
 .orange {
-  background-color: rgb(246, 246, 239);
+  background-color: #ff6600;
+}
+
+.background-gray {
+  background-color: rgb(246,246,239);
 }
 
 .f11 {
@@ -37,4 +41,3 @@ input {
   cursor: pointer;
   max-width: 250px;
 }
-
